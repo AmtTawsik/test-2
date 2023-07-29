@@ -1,0 +1,802 @@
+[
+      {
+        "Image": "https://i.ibb.co/G5Q8VQs/processor1.jpg",
+        "ProductName": "FastCore X500",
+        "Category": "cpu",
+        "Status": "In Stock",
+        "Price": 299.99,
+        "Description": "The FastCore X500 is a powerful CPU designed for gaming and content creation.",
+        "KeyFeatures": {
+          "Brand": "SuperTech",
+          "Model": "FX5000",
+          "Specification": "4.7GHz, 8 cores, 16 threads",
+          "Socket": "LGA1700",
+          "Cache": "20MB"
+        },
+        "IndividualRating": 4.9,
+        "AverageRating": 4.8,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/crMVxVm/processor2.jpg",
+        "ProductName": "SwiftBoost G900",
+        "Category": "cpu",
+        "Status": "In Stock",
+        "Price": 199.99,
+        "Description": "The SwiftBoost G900 is an affordable CPU that offers excellent performance for everyday tasks.",
+        "KeyFeatures": {
+          "Brand": "QuickTech",
+          "Model": "SBG900",
+          "Specification": "3.6GHz, 6 cores, 12 threads",
+          "Socket": "AM4",
+          "Cache": "16MB"
+        },
+        "IndividualRating": 4.4,
+        "AverageRating": 4.2,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/0QP0X5k/processor3.jpg",
+        "ProductName": "PowerPro Z200",
+        "Category": "cpu",
+        "Status": "Out of stock",
+        "Price": 449.99,
+        "Description": "The PowerPro Z200 is a high-end CPU built for extreme gaming and professional workloads.",
+        "KeyFeatures": {
+          "Brand": "MaxForce",
+          "Model": "PPZ200",
+          "Specification": "5.0GHz, 10 cores, 20 threads",
+          "Socket": "LGA1200",
+          "Cache": "24MB"
+        },
+        "IndividualRating": 4.9,
+        "AverageRating": 4.9,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/BzJMZtw/processor4.jpg",
+        "ProductName": "BudgetBeast B300",
+        "Category": "cpu",
+        "Status": "In Stock",
+        "Price": 129.99,
+        "Description": "The BudgetBeast B300 is an entry-level CPU suitable for basic computing needs.",
+        "KeyFeatures": {
+          "Brand": "EconoTech",
+          "Model": "BB300",
+          "Specification": "3.2GHz, 4 cores, 8 threads",
+          "Socket": "AM4",
+          "Cache": "8MB"
+        },
+        "IndividualRating": 3.7,
+        "AverageRating": 3.5,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/MCVfwsv/processor5.jpg",
+        "ProductName": "SuperSilent S700",
+        "Category": "cpu",
+        "Status": "In Stock",
+        "Price": 179.99,
+        "Description": "The SuperSilent S700 is a fanless CPU known for its quiet operation and energy efficiency.",
+        "KeyFeatures": {
+          "Brand": "WhisperTech",
+          "Model": "SS700",
+          "Specification": "3.0GHz, 6 cores, 12 threads",
+          "Socket": "LGA1700",
+          "Cache": "16MB"
+        },
+        "IndividualRating": 4.6,
+        "AverageRating": 4.4,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/F0cgY1j/motherboard1.jpg",
+        "ProductName": "MasterPro Z570",
+        "Category": "motherboard",
+        "Status": "In Stock",
+        "Price": 249.99,
+        "Description": "The MasterPro Z570 is a high-end motherboard with excellent overclocking capabilities.",
+        "KeyFeatures": {
+          "Brand": "TechMaster",
+          "Model": "MPZ570",
+          "Specification": "ATX, LGA1200, DDR4",
+          "Ports": "USB 3.2, HDMI, DisplayPort",
+          "Slots": "2 x PCIe x16, 4 x DDR4 DIMM"
+        },
+        "IndividualRating": 4.8,
+        "AverageRating": 4.7,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/B37JB66/motherboard2.jpg",
+        "ProductName": "MiniMax B450",
+        "Category": "motherboard",
+        "Status": "In Stock",
+        "Price": 149.99,
+        "Description": "The MiniMax B450 is a compact motherboard suitable for small form factor builds.",
+        "KeyFeatures": {
+          "Brand": "MicroTech",
+          "Model": "MMB450",
+          "Specification": "Micro ATX, AM4, DDR4",
+          "Ports": "USB 3.1, DVI, VGA",
+          "Slots": "1 x PCIe x16, 2 x DDR4 DIMM"
+        },
+        "IndividualRating": 4.3,
+        "AverageRating": 4.0,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/7NgJ7H2/motherboard3.jpg",
+        "ProductName": "BudgetPlus H310",
+        "Category": "motherboard",
+        "Status": "In Stock",
+        "Price": 89.99,
+        "Description": "The BudgetPlus H310 is an entry-level motherboard for budget gaming builds.",
+        "KeyFeatures": {
+          "Brand": "ValueTech",
+          "Model": "BVH310",
+          "Specification": "ATX, LGA1151, DDR4",
+          "Ports": "USB 3.0, VGA, DVI",
+          "Slots": "1 x PCIe x16, 2 x DDR4 DIMM"
+        },
+        "IndividualRating": 3.8,
+        "AverageRating": 3.6,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/G3jrN9X/motherboard4.jpg",
+        "ProductName": "GamingEdge X370",
+        "Category": "motherboard",
+        "Status": "Out of stock",
+        "Price": 179.99,
+        "Description": "The GamingEdge X370 is a feature-rich motherboard optimized for gaming performance.",
+        "KeyFeatures": {
+          "Brand": "GamerTech",
+          "Model": "GETX370",
+          "Specification": "ATX, AM4, DDR4",
+          "Ports": "USB 3.1, HDMI, DisplayPort",
+          "Slots": "2 x PCIe x16, 4 x DDR4 DIMM"
+        },
+        "IndividualRating": 4.6,
+        "AverageRating": 4.4,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/f4FcGCd/motherboard5.jpg",
+        "ProductName": "ProStream Z490",
+        "Category": "motherboard",
+        "Status": "In Stock",
+        "Price": 289.99,
+        "Description": "The ProStream Z490 is a premium motherboard designed for content creators and streamers.",
+        "KeyFeatures": {
+          "Brand": "StreamTech",
+          "Model": "STZ490",
+          "Specification": "ATX, LGA1200, DDR4",
+          "Ports": "USB 3.2, Thunderbolt 3, DisplayPort",
+          "Slots": "3 x PCIe x16, 4 x DDR4 DIMM"
+        },
+        "IndividualRating": 4.9,
+        "AverageRating": 4.9,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/FssHdw3/ram1.jpg",
+        "ProductName": "SpeedStar DDR4 16GB",
+        "Category": "ram",
+        "Status": "In Stock",
+        "Price": 99.99,
+        "Description": "The SpeedStar DDR4 16GB kit offers fast and reliable performance for multitasking.",
+        "KeyFeatures": {
+          "Brand": "SuperRAM",
+          "Model": "SSDDR416GB",
+          "Specification": "DDR4, 3200MHz",
+          "Capacity": "16GB (2 x 8GB)",
+          "CAS Latency": "16",
+          "Voltage": "1.35V"
+        },
+        "IndividualRating": 4.7,
+        "AverageRating": 4.6,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/PT8Rgyw/ram2.jpg",
+        "ProductName": "UltraBoost DDR4 32GB",
+        "Category": "ram",
+        "Status": "In Stock",
+        "Price": 189.99,
+        "Description": "The UltraBoost DDR4 32GB kit delivers high-speed memory for demanding applications.",
+        "KeyFeatures": {
+          "Brand": "ExtremeTech",
+          "Model": "UBDDR432GB",
+          "Specification": "DDR4, 3600MHz",
+          "Capacity": "32GB (4 x 8GB)",
+          "CAS Latency": "18",
+          "Voltage": "1.4V"
+        },
+        "IndividualRating": 4.9,
+        "AverageRating": 4.8,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/gWv8XWQ/ram3.jpg",
+        "ProductName": "ValuePlus DDR3 8GB",
+        "Category": "ram",
+        "Status": "In Stock",
+        "Price": 59.99,
+        "Description": "The ValuePlus DDR3 8GB kit offers a budget-friendly option for everyday computing.",
+        "KeyFeatures": {
+          "Brand": "EconoRAM",
+          "Model": "VPDDR38GB",
+          "Specification": "DDR3, 1600MHz",
+          "Capacity": "8GB (2 x 4GB)",
+          "CAS Latency": "11",
+          "Voltage": "1.5V"
+        },
+        "IndividualRating": 4.3,
+        "AverageRating": 4.1,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/BzcyPw0/ram4.jpg",
+        "ProductName": "ProGaming RGB 64GB",
+        "Category": "ram",
+        "Status": "Out of stock",
+        "Price": 299.99,
+        "Description": "The ProGaming RGB 64GB kit combines performance and customizable RGB lighting.",
+        "KeyFeatures": {
+          "Brand": "GamerTech",
+          "Model": "PGRGB64GB",
+          "Specification": "DDR4, 3600MHz",
+          "Capacity": "64GB (4 x 16GB)",
+          "CAS Latency": "16",
+          "Voltage": "1.35V"
+        },
+        "IndividualRating": 4.8,
+        "AverageRating": 4.7,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/ssFpw0N/ram5.jpg",
+        "ProductName": "StylishX DDR4 16GB",
+        "Category": "ram",
+        "Status": "In Stock",
+        "Price": 129.99,
+        "Description": "The StylishX DDR4 16GB kit features a sleek design with excellent performance.",
+        "KeyFeatures": {
+          "Brand": "DesignRAM",
+          "Model": "SXDDR416GB",
+          "Specification": "DDR4, 3000MHz",
+          "Capacity": "16GB (2 x 8GB)",
+          "CAS Latency": "15",
+          "Voltage": "1.35V"
+        },
+        "IndividualRating": 4.6,
+        "AverageRating": 4.4,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/d7SMPNk/power1.jpg",
+        "ProductName": "PowerMax 650W",
+        "Category": "psu",
+        "Status": "In Stock",
+        "Price": 89.99,
+        "Description": "The PowerMax 650W is a reliable and efficient power supply for mid-range systems.",
+        "KeyFeatures": {
+          "Brand": "PowerTech",
+          "Model": "PM650W",
+          "Wattage": "650W",
+          "Efficiency Rating": "80 Plus Bronze",
+          "Modularity": "Semi-Modular",
+          "Connectors": "ATX, PCIe, SATA"
+        },
+        "IndividualRating": 4.7,
+        "AverageRating": 4.6,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/yynTvft/power2.jpg",
+        "ProductName": "EnergySaver 550W",
+        "Category": "psu",
+        "Status": "In Stock",
+        "Price": 79.99,
+        "Description": "The EnergySaver 550W provides stable power delivery with energy-saving features.",
+        "KeyFeatures": {
+          "Brand": "EcoPower",
+          "Model": "ES550W",
+          "Wattage": "550W",
+          "Efficiency Rating": "80 Plus White",
+          "Modularity": "Non-Modular",
+          "Connectors": "ATX, PCIe, SATA"
+        },
+        "IndividualRating": 4.5,
+        "AverageRating": 4.3,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/rk5CJL6/power3.jpg",
+        "ProductName": "SuperVolt 750W",
+        "Category": "psu",
+        "Status": "Out of stock",
+        "Price": 109.99,
+        "Description": "The SuperVolt 750W is a high-performance PSU for gaming and power-hungry tasks.",
+        "KeyFeatures": {
+          "Brand": "ExtremeTech",
+          "Model": "SV750W",
+          "Wattage": "750W",
+          "Efficiency Rating": "80 Plus Gold",
+          "Modularity": "Fully Modular",
+          "Connectors": "ATX, PCIe, SATA, EPS"
+        },
+        "IndividualRating": 4.9,
+        "AverageRating": 4.8,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/Vx7JwSj/power4.jpg",
+        "ProductName": "SilentPower 450W",
+        "Category": "psu",
+        "Status": "In Stock",
+        "Price": 69.99,
+        "Description": "The SilentPower 450W features a quiet fan and stable performance for office use.",
+        "KeyFeatures": {
+          "Brand": "WhisperTech",
+          "Model": "SP450W",
+          "Wattage": "450W",
+          "Efficiency Rating": "80 Plus Bronze",
+          "Modularity": "Non-Modular",
+          "Connectors": "ATX, PCIe, SATA"
+        },
+        "IndividualRating": 4.4,
+        "AverageRating": 4.2,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/jMWcrDX/power5.jpg",
+        "ProductName": "GamerFury 850W",
+        "Category": "psu",
+        "Status": "In Stock",
+        "Price": 139.99,
+        "Description": "The GamerFury 850W is a beastly PSU designed for high-end gaming rigs.",
+        "KeyFeatures": {
+          "Brand": "GamerTech",
+          "Model": "GF850W",
+          "Wattage": "850W",
+          "Efficiency Rating": "80 Plus Gold",
+          "Modularity": "Semi-Modular",
+          "Connectors": "ATX, PCIe, SATA, EPS"
+        },
+        "IndividualRating": 4.8,
+        "AverageRating": 4.7,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/Dt6L0xY/storage1.jpg",
+        "ProductName": "SwiftDrive 500GB SSD",
+        "Category": "storage",
+        "Status": "In Stock",
+        "Price": 89.99,
+        "Description": "The SwiftDrive 500GB SSD offers fast read and write speeds for quick data access.",
+        "KeyFeatures": {
+          "Brand": "QuickTech",
+          "Model": "SD500GB",
+          "Capacity": "500GB",
+          "Interface": "SATA III",
+          "Form Factor": "2.5-inch",
+          "Read Speed": "550MB/s",
+          "Write Speed": "500MB/s"
+        },
+        "IndividualRating": 4.6,
+        "AverageRating": 4.5,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/h74NNFG/storage2.jpg",
+        "ProductName": "UltraSpeed 1TB NVMe SSD",
+        "Category": "storage",
+        "Status": "In Stock",
+        "Price": 189.99,
+        "Description": "The UltraSpeed 1TB NVMe SSD provides blazing-fast storage performance for gaming and media.",
+        "KeyFeatures": {
+          "Brand": "ExtremeTech",
+          "Model": "US1TBNVME",
+          "Capacity": "1TB",
+          "Interface": "NVMe PCIe 3.0",
+          "Form Factor": "M.2 2280",
+          "Read Speed": "3500MB/s",
+          "Write Speed": "3000MB/s"
+        },
+        "IndividualRating": 4.9,
+        "AverageRating": 4.8,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/4NfpSL3/storage3.jpg",
+        "ProductName": "DataSave 2TB HDD",
+        "Category": "storage",
+        "Status": "In Stock",
+        "Price": 79.99,
+        "Description": "The DataSave 2TB HDD offers large storage capacity for storing vast amounts of data.",
+        "KeyFeatures": {
+          "Brand": "StorageMaster",
+          "Model": "DS2TBHDD",
+          "Capacity": "2TB",
+          "Interface": "SATA III",
+          "Form Factor": "3.5-inch",
+          "RPM": "7200",
+          "Cache": "64MB"
+        },
+        "IndividualRating": 4.4,
+        "AverageRating": 4.2,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/b3FrXZk/storage4.jpg",
+        "ProductName": "ThunderDisk 4TB External HDD",
+        "Category": "storage",
+        "Status": "Out of stock",
+        "Price": 149.99,
+        "Description": "The ThunderDisk 4TB External HDD provides portable and convenient data storage.",
+        "KeyFeatures": {
+          "Brand": "ThunderTech",
+          "Model": "TD4TBEXT",
+          "Capacity": "4TB",
+          "Interface": "USB 3.0",
+          "Form Factor": "External (2.5-inch)",
+          "RPM": "5400",
+          "Cache": "8MB"
+        },
+        "IndividualRating": 4.7,
+        "AverageRating": 4.6,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/k9S8Rd9/storage5.jpg",
+        "ProductName": "HighSpeed 256GB USB Flash Drive",
+        "Category": "storage",
+        "Status": "In Stock",
+        "Price": 39.99,
+        "Description": "The HighSpeed 256GB USB Flash Drive offers quick data transfer in a compact design.",
+        "KeyFeatures": {
+          "Brand": "FastTech",
+          "Model": "HS256GBUSB",
+          "Capacity": "256GB",
+          "Interface": "USB 3.1",
+          "Form Factor": "USB Flash Drive",
+          "Read Speed": "150MB/s",
+          "Write Speed": "80MB/s"
+        },
+        "IndividualRating": 4.3,
+        "AverageRating": 4.1,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/3CYcT4w/monitor1.jpg",
+        "ProductName": "UltraView 24-inch Monitor",
+        "Category": "monitor",
+        "Status": "In Stock",
+        "Price": 199.99,
+        "Description": "The UltraView 24-inch Monitor offers vibrant colors and a sleek design for productivity.",
+        "KeyFeatures": {
+          "Brand": "ViewTech",
+          "Model": "UV24",
+          "Screen Size": "24 inches",
+          "Resolution": "1920x1080 (Full HD)",
+          "Panel Type": "IPS",
+          "Refresh Rate": "75Hz",
+          "Response Time": "5ms"
+        },
+        "IndividualRating": 4.7,
+        "AverageRating": 4.6,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/Nn2GD8w/monitor2.jpg",
+        "ProductName": "GamerPro 27-inch Monitor",
+        "Category": "monitor",
+        "Status": "In Stock",
+        "Price": 349.99,
+        "Description": "The GamerPro 27-inch Monitor delivers smooth visuals and low input lag for gaming.",
+        "KeyFeatures": {
+          "Brand": "GamerTech",
+          "Model": "GP27",
+          "Screen Size": "27 inches",
+          "Resolution": "2560x1440 (QHD)",
+          "Panel Type": "VA",
+          "Refresh Rate": "144Hz",
+          "Response Time": "1ms"
+        },
+        "IndividualRating": 4.9,
+        "AverageRating": 4.8,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/3vrjY0y/monitor3.jpg",
+        "ProductName": "BudgetView 21.5-inch Monitor",
+        "Category": "monitor",
+        "Status": "In Stock",
+        "Price": 129.99,
+        "Description": "The BudgetView 21.5-inch Monitor is a cost-effective option for basic tasks and browsing.",
+        "KeyFeatures": {
+          "Brand": "EconoTech",
+          "Model": "BV21",
+          "Screen Size": "21.5 inches",
+          "Resolution": "1920x1080 (Full HD)",
+          "Panel Type": "TN",
+          "Refresh Rate": "60Hz",
+          "Response Time": "5ms"
+        },
+        "IndividualRating": 4.2,
+        "AverageRating": 4.0,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/QnJxLQc/monitor4.jpg",
+        "ProductName": "ProDesigner 32-inch Monitor",
+        "Category": "monitor",
+        "Status": "Out of stock",
+        "Price": 799.99,
+        "Description": "The ProDesigner 32-inch Monitor offers precise color reproduction for professional work.",
+        "KeyFeatures": {
+          "Brand": "ColorTech",
+          "Model": "PD32",
+          "Screen Size": "32 inches",
+          "Resolution": "3840x2160 (4K UHD)",
+          "Panel Type": "IPS",
+          "Refresh Rate": "60Hz",
+          "Response Time": "4ms"
+        },
+        "IndividualRating": 4.8,
+        "AverageRating": 4.7,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/YD0jfKT/monitor5.jpg",
+        "ProductName": "UltraWide 34-inch Monitor",
+        "Category": "monitor",
+        "Status": "In Stock",
+        "Price": 449.99,
+        "Description": "The UltraWide 34-inch Monitor offers an immersive viewing experience for multitasking.",
+        "KeyFeatures": {
+          "Brand": "WideTech",
+          "Model": "UW34",
+          "Screen Size": "34 inches",
+          "Resolution": "3440x1440 (UWQHD)",
+          "Panel Type": "IPS",
+          "Refresh Rate": "100Hz",
+          "Response Time": "5ms"
+        },
+        "IndividualRating": 4.6,
+        "AverageRating": 4.4,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/HpJW8TG/others1.jpg",
+        "ProductName": "Wireless Ergonomic Keyboard",
+        "Category": "Others",
+        "Status": "In Stock",
+        "Price": 49.99,
+        "Description": "The Wireless Ergonomic Keyboard offers comfortable typing with a sleek design.",
+        "KeyFeatures": {
+          "Brand": "ErgoTech",
+          "Model": "WK-1",
+          "Connection": "Wireless (2.4GHz USB receiver)",
+          "Layout": "QWERTY",
+          "Features": "Ergonomic, Backlit keys"
+        },
+        "IndividualRating": 4.7,
+        "AverageRating": 4.6,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/b5vc8KV/others2.jpg",
+        "ProductName": "High-Fidelity Headphones",
+        "Category": "Others",
+        "Status": "In Stock",
+        "Price": 89.99,
+        "Description": "The High-Fidelity Headphones provide rich audio quality and noise isolation.",
+        "KeyFeatures": {
+          "Brand": "AudioMasters",
+          "Model": "HM-100",
+          "Connection": "Wired (3.5mm audio jack)",
+          "Type": "Over-ear",
+          "Features": "Hi-Res audio, Detachable cable"
+        },
+        "IndividualRating": 4.9,
+        "AverageRating": 4.8,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/zxsM4ZY/others3.jpg",
+        "ProductName": "HD Webcam",
+        "Category": "Others",
+        "Status": "In Stock",
+        "Price": 59.99,
+        "Description": "The HD Webcam offers clear video quality and built-in microphone for online meetings.",
+        "KeyFeatures": {
+          "Brand": "CamTech",
+          "Model": "HDW-1080",
+          "Resolution": "1080p",
+          "Connectivity": "USB 2.0",
+          "Features": "Auto-focus, Privacy shutter"
+        },
+        "IndividualRating": 4.4,
+        "AverageRating": 4.2,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/VWjHDzY/others4.jpg",
+        "ProductName": "Wireless Gaming Mouse",
+        "Category": "Others",
+        "Status": "Out of stock",
+        "Price": 69.99,
+        "Description": "The Wireless Gaming Mouse offers precise tracking and customizable buttons.",
+        "KeyFeatures": {
+          "Brand": "GamerTech",
+          "Model": "GM-200",
+          "Connection": "Wireless (2.4GHz USB receiver)",
+          "DPI Levels": "Adjustable (800/1600/3200)",
+          "Features": "RGB lighting, Programmable buttons"
+        },
+        "IndividualRating": 4.8,
+        "AverageRating": 4.7,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      },
+      {
+        "Image": "https://i.ibb.co/Lh65Jc2/others5.jpg",
+        "ProductName": "Portable External Charger",
+        "Category": "Others",
+        "Status": "In Stock",
+        "Price": 39.99,
+        "Description": "The Portable External Charger keeps your devices powered on the go.",
+        "KeyFeatures": {
+          "Brand": "PowerOn",
+          "Model": "PO-10000",
+          "Capacity": "10,000mAh",
+          "Connectivity": "USB-A, USB-C",
+          "Features": "Compact, LED indicator"
+        },
+        "IndividualRating": 4.6,
+        "AverageRating": 4.4,
+        "Reviews": [
+          "Good Product",
+          "Nice Product",
+          "Wow!!"
+        ]
+      }
+]  
